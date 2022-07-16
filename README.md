@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @urs-srt
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on All the projects
 - 📫 How to reach me 
 
